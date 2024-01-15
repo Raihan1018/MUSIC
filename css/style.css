@@ -1,0 +1,195 @@
+/* body background color */
+
+body {
+  background-image: linear-gradient(to bottom, #0a2345, #101c35, #101525, #0b0c17, #010102);
+  background-repeat: no-repeat;
+}
+
+/* header section start */
+header {
+  padding-top: 25px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  display: inline-block;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 0.575);
+  display: inline-block;
+}
+
+i.fas.fa-sliders-h {
+  color: #2a5da3;
+}
+
+/* header section end */
+
+
+/* banner section start */
+.BannerSection {}
+
+.bannerContent {
+  color: #fff;
+}
+
+.bannerContent h2 {}
+
+.bannerContent h2 span {
+  color: #2a5da3;
+}
+
+.bannerContent p {
+  color: #2a5da3;
+  padding: 21px 0px;
+}
+
+.bannerContent button {
+  background: transparent;
+  border: transparent;
+  color: #fff;
+  border: 1px solid #2a5da3;
+  border-radius: 10px;
+  padding: 6px 20px;
+  margin-bottom: 45px;
+  transition: 0.5s all ease-in-out;
+}
+
+.bannerContent button:hover {
+  color: rgba(255, 255, 255, 0.527);
+  border: 1px solid #2a5ca386;
+}
+
+/* banner section end */
+
+
+
+/* platList section start */
+.playList {
+  background-image: url(../images/header/header_bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* playList section end */
+
+
+/* headphone section start */
+
+.Headphone {
+  background-image: url(../images/headpone.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 514px;
+  padding: 200px 0px;
+}
+
+.headphone_cnt {
+  text-align: center;
+}
+
+.headphone_cnt h2 {
+  color: #fff;
+}
+
+.headphone_cnt h2 span {
+  color: #2a5da3;
+}
+
+.headphone_cnt p {
+  color: #66778e;
+  padding: 14px 0px;
+}
+
+.headphone_cnt button {
+  background: transparent;
+  border: transparent;
+  color: #fff;
+  border: 1px solid #66778e;
+  border-radius: 10px;
+  padding: 5px 18px;
+  transition: 0.5s all ease-in-out;
+}
+
+.headphone_cnt button:hover {
+  color: rgba(255, 255, 255, 0.486);
+  border: 1px solid #6282afcb;
+}
+
+/* headphone section end */
+
+
+
+/* feature section start */
+.FeatureSection {
+  background-image: url(../images/feature/feature_1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400px;
+  /* padding-top: 48px; */
+}
+
+.feature_heading {}
+
+.feature_heading h2 {
+  color: #fff;
+  margin-bottom: 85px;
+}
+
+.feature_heading h2 span {
+  color: #295ba1;
+}
+
+.feature_cnt {
+  margin-bottom: 30px;
+}
+
+.feature_cnt i {
+  color: #ff3334;
+}
+
+.feature_cnt h3 {
+  color: #fff;
+}
+
+.feature_cnt p {
+  color: #66778e;
+  margin: 10px 0px;
+}
+
+/* feature section end */
+
+
+
+
+/* power section start */
+.PowerSection {
+  background-image: url(../images/feature/feature_2.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 580px;
+  padding: 120px 0px;
+  /* margin-top: 20px; */
+  margin: 90px 0px;
+}
+
+.power_cnt {}
+
+.power_cnt h2 {
+  color: #fff;
+  padding: 9px 0px;
+}
+
+.power_cnt p {
+  color: #66778e;
+  line-height: 1.7;
+}
+
+.power_cnt i {
+
+  color: #ff3334;
+}
+
+/* power section end */
